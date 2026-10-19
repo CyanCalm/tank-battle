@@ -4,7 +4,7 @@
 
 ## 在线试玩
 
-GitHub Pages：<https://你的用户名.github.io/battle-city/>
+GitHub Pages：<https://cyancalm.github.io/tank-battle/>
 
 ## 本地运行
 
